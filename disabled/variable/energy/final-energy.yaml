@@ -151,7 +151,7 @@
     unit: EJ/yr
 
 # additional variable for international aviation and shipping ("Bunkers")
-# Commented out in IAM COMPACT, included in Sectors tag list
+# Commented out in TRANSIENCE, included in Sectors tag list
 # (tag_all_sectors.yaml)
 # - Final Energy|Bunkers|{Bunker Sector}:
 #     description: Final energy consumption for {Bunker Sector}
@@ -167,7 +167,7 @@
 #     navigate: Final Energy|Bunkers|{Transportation Sector}|{Bunker Sector}
 
 # additional variables for the water sector
-# Commented out in IAM COMPACT (as of 2024-04-12), using categories under 
+# Commented out in TRANSIENCE (as of 2024-04-12), using categories under 
 # - Final Energy|Commercial|Water|Desalination:
 #     description: Energy consumption for water desalination
 #     unit: EJ/yr

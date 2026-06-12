@@ -125,7 +125,7 @@
       (IPCC category 1A3), excluding pipeline emissions (IPCC category 1A3ei),
       not accounting for negative emissions from bioenergy with CCS (BECCS) in these sectors
     unit: Mt CO2/yr
-# Change made in IAM COMPACT (2024-04): Removed (commented) explicit listing of
+# Change made in TRANSIENCE (2024-04): Removed (commented) explicit listing of
 # Energy|Demand subsectors, and instead use the {Sector} tag list
 - Emissions|{Level-2 Species}|Energy|Demand|{Sector}:
     description: Emissions of {Level-2 Species} from fuel combustion in {Sector}

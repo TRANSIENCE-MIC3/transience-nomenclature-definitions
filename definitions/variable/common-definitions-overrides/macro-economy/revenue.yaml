@@ -1,6 +1,6 @@
-# Overrides in IAM COMPACT
+# Overrides in TRANSIENCE
 #
-# Variables for revenue for government. Further new variables for IAM COMPACT
+# Variables for revenue for government. Further new variables for TRANSIENCE
 # are defined in the main directory tree
 
 - Revenue|Government:

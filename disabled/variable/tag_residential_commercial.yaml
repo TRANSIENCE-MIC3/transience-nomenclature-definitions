@@ -1,7 +1,7 @@
 # This list is intended as short-hand for variables that should be reported
 # for residential and commercial combined as well as separate
 
-# Several things in this tag list were added and modified in IAM COMPACT, to
+# Several things in this tag list were added and modified in TRANSIENCE, to
 # conform more closely to IPCC AR6, and to resolve the seemingly overlapping
 # scopes.
 
@@ -9,7 +9,7 @@
   - Residential and Commercial:
       description: residential, commercial, institutional sectors (IPCC category
           1A4a and 1A4b)
-  # "Residential" and "Commercial" were modified in IAM COMPACT to specify that
+  # "Residential" and "Commercial" were modified in TRANSIENCE to specify that
   # they should only be used when only one of them is represented. Commenting
   # out for now, to make sure the issue gets flagged for models that make use of
   # these variables.

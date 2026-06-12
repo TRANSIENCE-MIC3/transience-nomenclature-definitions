@@ -1,4 +1,4 @@
-# For radiative forcing variables. Added in IAM COMPACT
+# For radiative forcing variables. Added in TRANSIENCE
 - Forcing:
     description: Radiative forcing
     unit: W/m2

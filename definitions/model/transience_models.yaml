@@ -1,0 +1,15 @@
+# Models used in the TRANSIENCE modelling studies
+- EU-MFA 1.0:
+    description: "Multi-regional dynamic Material Flow Analysis (MFA) for the EU, version 1.0"
+- FORECAST-Sites 1.0:
+    description: "Technology Diffusion Model in Energy-Intensive Industries, version 1.0"
+- ITOM 1.0:
+    description: "Industry Transformation Optimisation Model framework, version 1.0"
+- LCA-TRANSIENCE 1.0:
+    description: "Environmental Life Cycle Assessment (LCA) module, version 1.0"
+- OPEN-GEM 1.0:
+    description: "Open version of the Computable General Equilibrium model of E3-Modelling, version 1.0"
+- OPEN-PROM 2.2:
+    description: "Open PROMETHEUS integrated assessment model, version 2.2"
+- REMIND-MFA 0.2:
+    description: "Top-down prospective material flow analysis (MFA) models for cement, plastics, and steel, version 0.2"

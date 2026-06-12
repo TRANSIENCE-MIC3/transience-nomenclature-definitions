@@ -190,7 +190,7 @@
 # updated to be consistent with IPCC AR6 WGIII Annex II R10 regions
 # https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Annex-II.pdf
 #
-# NB! Commented out in IAM COMPACT. The R10 regions are not unambiguously
+# NB! Commented out in TRANSIENCE. The R10 regions are not unambiguously
 # defined in the AR6 WG3 model registration template, and the definition in
 # the original LIMITS source does not appear to quite agree with the definitions
 # used here (despite being ambiguous in the first place). There appears to be

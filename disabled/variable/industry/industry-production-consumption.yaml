@@ -1,4 +1,4 @@
-# Added in IAM COMPACT. Contains variables for production and consumption of
+# Added in TRANSIENCE. Contains variables for production and consumption of
 # industrial products. Currently only Steel, through the variable
 # `Consumption|Steel` used by GCAM. This variable is present in neither AR6, nor
 # in openENTRANCE or in the common-definitions repository. It is also unusual in
