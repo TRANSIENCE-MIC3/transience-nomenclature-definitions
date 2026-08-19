@@ -15,7 +15,7 @@
         description: liquid fuels from coal
         tier: "2"
     - Liquids|Gas:
-        description: liquid fuels from fossil methane ("natural gas")
+        description: liquid fuels from fossil methane ('natural gas')
         tier: "2"
     - Liquids|Hydrogen:
         description: liquid fuels from hydrogen (if hydrogen is explicitly modeled as a
@@ -68,7 +68,7 @@
         description: gaseous fuels from coal
         tier: "2"
     - Gases|Gas:
-        description: fossil methane ("natural gas")
+        description: fossil methane ('natural gas')
         tier: "2"
     - Hydrogen:
         description: hydrogen
