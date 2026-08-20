@@ -1694,7 +1694,7 @@
       alpha_3: XKX
       alpha_2: XK
       note: 'Kosovo recognized under UNSC resolution 1244, alpha_3 code not assigned.
-        User-defined ISO 3- and 2-letter codes: XKX, XK. The ISO 3-letter code is
-        not included in the `iso3_codes` attribute, since `nomenclature` validates
+        User-defined ISO 3- and 2-letter codes are XKX and XK. The ISO 3-letter code
+        is not included in the `iso3_codes` attribute, since `nomenclature` validates
         it directly against `pycountry.countries`.'
 
